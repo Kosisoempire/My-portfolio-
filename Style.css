@@ -1,0 +1,44 @@
+body{
+  background-image: url('Bb.jpg');
+  background-size: 100% ;
+  background-position: fixed;
+  
+}
+.title{
+  color: green;
+  font-family: Courier;
+  font-size: 90%;
+  text-align: center;
+}
+.nav{ background-color: transparent;
+
+
+  
+}
+li{
+  display: inline-block;
+  font-size: 50%;
+  padding: 7px;
+  margin: 2px;
+  border: 0px solid ;
+  color: green;
+  
+}
+
+ a:active{ font-family:Courier New;
+  font-size: 11px;
+  color: white;}
+  
+a{text-decoration: none;
+  color: green;
+  font-family: Monospace;
+  
+}
+.main{
+  font-family: Cursive;
+  
+}
+img{width: 25%;
+height: 35%;
+  display: block;
+}
